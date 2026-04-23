@@ -13,30 +13,35 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js+Expert" alt="Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js" alt="Typing SVG" />
 </div>
 
 ---
-Professional **Full-Stack MERN Developer** specializing in building high-performance, scalable web ecosystems. I bridge the gap between complex backend logic and immersive, pixel-perfect user experiences.
 
--   🔭 **Current Focus:** Engineering next-gen **AI-Integrated Web Applications** using **Google Gemini & Groq APIs** to automate complex workflows and enhance user interaction.
-    
--   ⚡ **Expertise:** Deeply rooted in the **MERN Ecosystem**, specialized in building **Scalable Web Applications**, Server-Side Rendering (SSR) with Next.js, and optimized REST/GraphQL APIs.
-    
--   🛠️ **Core Stack:** Mastered **React.js** for dynamic frontends and **Node.js/Express** for robust, high-concurrency backend services.
-    
--   🎓 **Technical Training:** Lead Mentor at **4Achievers**, currently shaping 100+ aspirants into industry-ready Full-Stack & AI Developers.
-    
--   📸 **Tech Evangelist:** Empowering a community of developers via **[@webgyaan.hub](https://instagram.com/webgyaan.hub)** by simplifying advanced full-stack concepts.
+### 💻 System Architecture & Development
+Professional **Full-Stack MERN Developer** specializing in building high-performance, scalable web ecosystems. I bridge the gap between complex backend logic and pixel-perfect user experiences.
+
+- 🔭 **Current Focus:** Engineering next-gen **AI-Integrated Web Applications** using **Google Gemini & Groq APIs** to automate complex workflows.
+- ⚡ **Expertise:** Deeply rooted in the **MERN Ecosystem**, specialized in building **Scalable Web Applications**, SSR with Next.js, and optimized REST APIs.
+- 🛠️ **Core Stack:** Mastered **React.js** for dynamic frontends and **Node.js/Express** for robust, high-concurrency backend services.
+- 🎓 **Technical Training:** Lead Mentor at **4Achievers**, shaping 100+ aspirants into industry-ready Developers.
+- 📸 **Tech Evangelist:** Empowering a community of developers via **[@webgyaan.hub](https://instagram.com/webgyaan.hub)**.
+
 ---
 
-### 🛠 Tech Arsenal (3D Grid)
+### 🛠 Tech Arsenal
 
-<div >
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,html,css,tailwind,bootstrap,js,java,vscode,postman,git&perline=7" />
+</div>
+
+<br />
+
+<div align="center">
   <table>
     <tr>
-      <td ><b>Frontend</b></td>
+      <td align="center"><b>Frontend</b></td>
       <td>React.js, Next.js, Tailwind CSS, Bootstrap, JavaScript (ES6+)</td>
     </tr>
     <tr>
@@ -49,17 +54,12 @@ Professional **Full-Stack MERN Developer** specializing in building high-perform
     </tr>
     <tr>
       <td align="center"><b>Tools</b></td>
-      <td> VS Code, Git/GitHub, Postman, Vercel</td>
+      <td>VS Code, Git/GitHub, Postman, Vercel</td>
     </tr>
   </table>
 </div>
 
-<p >
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,html,css,tailwind,bootstrap,js,java,vscode,postman,git&per line=7" />
-</p>
-
 ---
-
 
 ### 📊 GitHub Activity Snapshot
 <div align="center">
@@ -75,7 +75,6 @@ Professional **Full-Stack MERN Developer** specializing in building high-perform
 
 ---
 
-
 ### 🏗 Highlighted Work
 
 | Project | Role | Impact |
@@ -86,14 +85,12 @@ Professional **Full-Stack MERN Developer** specializing in building high-perform
 
 ---
 
-
 ### 📞 Connect & Collaborate
 <div align="left">
-<a href="https://www.linkedin.com/in/ganesh-dutt-514a94243" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ganeshdutt639@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/webgyaan.hub" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-dutt-514a94243" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ganeshdutt639@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/webgyaan.hub" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
 
 ---
 <div align="center">
