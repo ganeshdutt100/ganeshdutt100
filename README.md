@@ -1,60 +1,61 @@
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> जय श्री राम 🚩, I'm Ganesh Dutt! 
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/>
-</h2>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+# 🚀 Full-Stack MERN Developer | Technical Trainer
 
-<p align="center">
-  <em>🚀 MERN Stack Developer | Frontend Specialist | Trainer @Achievers</em>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ganesh%20Dutt&fontSize=80&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/ganeshdutt100">
-    <img src="https://img.shields.io/github/followers/ganeshdutt100?label=Follow&style=social" alt="GitHub followers" />
+<div align="center">
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ganeshdutt.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-blue?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ganeshdutt100">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  <a href="mailto:gdutt2304@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 **Current Work & Projects**
-- 🌟 **Just Launched:** [**My Official Portfolio (MERN Stack)**](https://ganeshdutt.vercel.app)  
-  *A complete Fullstack application with Admin Dashboard, Dynamic Content, and Animations.*
-  
-- 🔭 **Currently Building:** More **Fullstack Web Applications** (Deep diving into Backend Architecture).
+### 👨‍💻 About Me
+I am a passionate **Full-Stack MERN Developer** and **Technical Trainer** based in Noida. I specialize in building scalable web applications with a focus on clean architecture and high performance.
 
-- 📂 **Other Projects:** - **Student Record Manager**: [View Repo](https://github.com/ganeshdutt100/student-record-manager) (Fullstack logic without DB)
-
----
-
-### 🛠 **Tech Stack**
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+- 🔭 **Current Focus:** Building AI-integrated Fullstack Applications (Gemini & Groq API).
+- 🎓 **Training:** Mentoring 100+ students in Frontend & AI development at 4Achievers.
+- 💡 **Philosophy:** "I drink code for breakfast and debug for dessert 😋"
 
 ---
 
-### 💻 **About Me**
-```javascript
-const ganesh = {
-  pronouns: ["He", "Him"],
-  role: "Full Stack Web Developer",
-  code: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "GSAP"],
-  currentFocus: "Building scalable Fullstack MERN Applications 🚀",
-  funFact: "I drink code for breakfast and debug for dessert 😄"
-};
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,html,css,git,github,postman,figma" />
+</div>
+
+---
+
+### 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdutt100&show_icons=true&theme=tokyonight&count_private=true" alt="Ganesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdutt100&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+### 🏗 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Official Portfolio** | MongoDB, React, Node | Full-stack application with dynamic CMS and admin dashboard. |
+| **AI Gym Manager** | React, Groq API | Intelligent workout tracking with AI-driven recommendations. |
+| **Student Record Manager**| React, LocalStorage | Efficient data management system with advanced filtering. |
+
+---
+
+### 🤝 Let's Connect
+- 📸 **Instagram:** [@webgyaan.hub](https://instagram.com/webgyaan.hub) (Tech Education & Tips)
+- 💼 **Job Inquiries:** Open for freelance and full-time senior roles.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshdutt100&color=blueviolet" alt="Profile Views" />
+</div>
