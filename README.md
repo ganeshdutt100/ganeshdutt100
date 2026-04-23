@@ -1,7 +1,8 @@
+
 # <img src="https://media.giphy.com/media/hvRJCLzz8CZTf3H63Y/giphy.gif" width="35"> I'm Ganesh Dutt | MERN Stack Architect
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js+Expert" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +11,7 @@
 Professional **Full-Stack Developer** specializing in high-performance web applications. I bridge the gap between complex backend architecture and pixel-perfect frontend interfaces.
 
 - 🔭 **Current Project:** Architecting an AI-driven "Pay After Placement" Portal.
-- ⚡ **Expertise:** Scalable Microservices, Real-time systems (Socket.io), and Neural UI patterns.
+- ⚡ **Expertise:** Scalable Microservices, Next.js SSR, and AI API Integration.
 - 📸 **Content Creator:** Leading a community of developers at **[@webgyaan.hub](https://instagram.com/webgyaan.hub)**.
 - 🚩 **Philosophy:** Build with Purpose, Scale with Logic.
 
@@ -20,30 +21,22 @@ Professional **Full-Stack Developer** specializing in high-performance web appli
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS/Cloud
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JS"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js"/><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind"/><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/><br>Bootstrap</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/><br>Express</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/><br>Postman</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode"/><br>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS"/><br>AWS</td>
   </tr>
 </table>
 
@@ -75,12 +68,13 @@ Professional **Full-Stack Developer** specializing in high-performance web appli
 
 ### 📞 Connect & Collaborate
 <div align="left">
-<a href="https://linkedin.com/in/your-username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ganesh-dutt-514a94243" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ganeshdutt639@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/webgyaan.hub" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
-<p align="center">
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
+</div>
