@@ -1,61 +1,86 @@
-# 🚀 Full-Stack MERN Developer | Technical Trainer
+# <img src="https://media.giphy.com/media/hvRJCLzz8CZTf3H63Y/giphy.gif" width="35"> I'm Ganesh Dutt | MERN Stack Architect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ganesh%20Dutt&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
+
+---
+
+### 🚀 Quick Overview
+Professional **Full-Stack Developer** specializing in high-performance web applications. I bridge the gap between complex backend architecture and pixel-perfect frontend interfaces.
+
+- 🔭 **Current Project:** Architecting an AI-driven "Pay After Placement" Portal.
+- ⚡ **Expertise:** Scalable Microservices, Real-time systems (Socket.io), and Neural UI patterns.
+- 📸 **Content Creator:** Leading a community of developers at **[@webgyaan.hub](https://instagram.com/webgyaan.hub)**.
+- 🚩 **Philosophy:** Build with Purpose, Scale with Logic.
+
+---
+
+### 🛠 My Arsenal (Tech Stack)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
+      <br>AWS/Cloud
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity Snapshot
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdutt100&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=about.me&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdutt100&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdutt100&layout=compact&theme=dracula&border_radius=10" align="center" width="39%" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate **Full-Stack MERN Developer** and **Technical Trainer** based in Noida. I specialize in building scalable web applications with a focus on clean architecture and high performance.
+### 🏗 Highlighted Work
 
-- 🔭 **Current Focus:** Building AI-integrated Fullstack Applications (Gemini & Groq API).
-- 🎓 **Training:** Mentoring 100+ students in Frontend & AI development at 4Achievers.
-- 💡 **Philosophy:** "I drink code for breakfast and debug for dessert 😋"
-
----
-
-### 🛠 Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,html,css,git,github,postman,figma" />
-</div>
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdutt100&show_icons=true&theme=tokyonight&count_private=true" alt="Ganesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdutt100&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-### 🏗 Featured Projects
-
-| Project | Tech Stack | Description |
+| Project | Role | Impact |
 | :--- | :--- | :--- |
-| **Official Portfolio** | MongoDB, React, Node | Full-stack application with dynamic CMS and admin dashboard. |
-| **AI Gym Manager** | React, Groq API | Intelligent workout tracking with AI-driven recommendations. |
-| **Student Record Manager**| React, LocalStorage | Efficient data management system with advanced filtering. |
+| **Official MERN Portfolio** | Lead Dev | Integrated custom CMS for dynamic content management. |
+| **AI Gym Ecosystem** | Architect | Built real-time diet tracking using Gemini API integration. |
+| **Student Record System** | Instructor | Created as a benchmark for React State Management training. |
 
 ---
 
-### 🤝 Let's Connect
-- 📸 **Instagram:** [@webgyaan.hub](https://instagram.com/webgyaan.hub) (Tech Education & Tips)
-- 💼 **Job Inquiries:** Open for freelance and full-time senior roles.
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshdutt100&color=blueviolet" alt="Profile Views" />
+### 📞 Connect & Collaborate
+<div align="left">
+<a href="https://linkedin.com/in/your-username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/webgyaan.hub" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
