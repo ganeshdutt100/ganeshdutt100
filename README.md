@@ -1,8 +1,8 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLzz8CZTf3H63Y/giphy.gif" width="35"> I'm Ganesh Dutt | MERN Stack Architect
+# <img  src="https://media.giphy.com/media/hvRJCLzz8CZTf3H63Y/giphy.gif" width="35"> I'm Ganesh Dutt [![Portfolio](https://img.shields.io/badge/View-Portfolio-45FFB1?style=for-the-badge&logo=react&logoColor=black)](https://ganeshdutt.vercel.app)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js+Expert" alt="Typing SVG" />
 </div>
 
 ---
