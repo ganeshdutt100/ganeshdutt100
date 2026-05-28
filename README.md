@@ -14,7 +14,7 @@
 </p>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer+@4Achievers;AI+Integration+Specialist;Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFB1&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Technical+Trainer;AI+Integration+Specialist;Next.js" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,7 +25,7 @@ Professional **Full-Stack MERN Developer** specializing in building high-perform
 - 🔭 **Current Focus:** Engineering next-gen **AI-Integrated Web Applications** using **Google Gemini & Groq APIs** to automate complex workflows.
 - ⚡ **Expertise:** Deeply rooted in the **MERN Ecosystem**, specialized in building **Scalable Web Applications**, SSR with Next.js, and optimized REST APIs.
 - 🛠️ **Core Stack:** Mastered **React.js** for dynamic frontends and **Node.js/Express** for robust, high-concurrency backend services.
-- 🎓 **Technical Training:** Lead Mentor at **4Achievers**, shaping 100+ aspirants into industry-ready Developers.
+- 🎓 **Technical Training:**  shaping 100+ aspirants into industry-ready Developers.
 - 📸 **Tech Evangelist:** Empowering a community of developers via **[@webgyaan.hub](https://instagram.com/webgyaan.hub)**.
 
 ---
